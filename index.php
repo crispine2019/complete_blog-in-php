@@ -7,6 +7,10 @@
 		<!-- navbar -->
 <?php include('includes/navbar.php') ?>
 		<!-- // navbar -->
+<!-- navbar is up here... -->
+
+<!-- banner -->
+<?php include('includes/banner.php') ?>
 
 		<!-- Page content -->
 		<div class="content">
