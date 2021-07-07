@@ -1,4 +1,4 @@
-<?php require_once('config.php') ?>
+
 <?php require_once('includes/head_section.php') ?>
 	<title>LifeBlog | Home </title>
 </head>
